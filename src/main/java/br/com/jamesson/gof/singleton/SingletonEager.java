@@ -1,4 +1,4 @@
-package br.com.jamesson.gof;
+package br.com.jamesson.gof.singleton;
 
 /**
  * Singleton "Eager"

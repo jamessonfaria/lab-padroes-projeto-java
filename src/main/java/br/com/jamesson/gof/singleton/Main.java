@@ -1,4 +1,4 @@
-package br.com.jamesson.gof;
+package br.com.jamesson.gof.singleton;
 
 public class Main {
 
@@ -18,6 +18,11 @@ public class Main {
         System.out.println(o11);
         System.out.println(o12);
 
+        SingletonLazyHolder o111 = SingletonLazyHolder.getInstancia();
+        SingletonLazyHolder o112 = SingletonLazyHolder.getInstancia();
+
+        System.out.println(o111);
+        System.out.println(o112);
 
     }
 
