@@ -1,7 +1,7 @@
 package br.com.jamesson.gof;
 
 /**
- * Singleton
+ * Singleton "Lazy"
  * @author Jamesson Faria
  */
 
